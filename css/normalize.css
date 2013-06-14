@@ -101,7 +101,7 @@ body {
  * Keep outline for improved accessiblity.
  */
 
-a:focus, a:active, a:hover {
+a:focus {
     outline: thin dotted;
 }
 
